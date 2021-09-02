@@ -39,7 +39,7 @@ float save[13];  //陣列 存值0~13
 float total1=0;   //每筆存值相加
 float total2=0;
 float avg=0;   //每七天平均相減
-int delaytime=30000; //30秒
+unsigned long delaytime=30000; //30秒
 
 
  
